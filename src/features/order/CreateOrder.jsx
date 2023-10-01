@@ -110,5 +110,3 @@ const action = async ({ request }) => {
 
 export default CreateOrder;
 export { action };
-
-// 12. Error Handling in Form Actions
