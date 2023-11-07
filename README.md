@@ -17,7 +17,7 @@ The React js Pizza Order app provides a simple and intuitive interface for brows
 
 [View Demo](https://react-pizza-order-co.netlify.app/)
 
-[![](https://i.ibb.co/34HrZh8/First-React-Pizza-Co.gif)](https://react-pizza-order-co.netlify.app/)
+[![](https://i.ibb.co/X4K07xn/First-React-Pizza-Co-1.gif)](https://react-pizza-order-co.netlify.app/)
 
 ## Run Locally
 
