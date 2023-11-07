@@ -19,3 +19,29 @@ The React js Pizza Order app provides a simple and intuitive interface for brows
 
 [![](https://i.ibb.co/34HrZh8/First-React-Pizza-Co.gif)](https://react-pizza-order-co.netlify.app/)
 
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/humayunahmed82/react-pizza-order-co.git
+```
+
+Go to the project directory
+
+```bash
+  cd react-pizza-order-co
+```
+
+Install dependencies
+
+```bash
+  yarn
+```
+
+Start the server
+
+```bash
+  yarn dev
+```
+
